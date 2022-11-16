@@ -6,7 +6,7 @@
 </p>
 A set of testing and verification tools, with simple and beautiful design 
 
-## Ad Block Test  [Link](https://d3ward.github.io/toolz/adblock)
+## Ad Block Test  [URL page](https://paileactivist.github.io/toolz/) ([Upstream page URL](https://d3ward.github.io/toolz/adblock))
 Check if your adblock solution is blocking enough hosts
 With a simple UI check how much you blocked , the tool try to connect to most common domains for 6 category 
 ( Ads, Analytics, Error Tracking, SocialTrackers, Mix and OEMs)
